@@ -1,0 +1,14 @@
+__pycache__/
+plot/
+data/
+log/
+logs/
+venv/
+pac/
+preprocess/cnn-dailymail-master/
+test_output/
+output/
+*.pyc
+*.pt
+.vscode/
+ROUGE-1.5.5/
