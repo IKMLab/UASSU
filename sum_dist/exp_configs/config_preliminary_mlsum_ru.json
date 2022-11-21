@@ -1,0 +1,8 @@
+{
+    "__comment-01": "--- Preprocess configs ---",
+    "preprocess_spacy_model": "ru_core_news_sm",
+
+    "__comment-02": "--- Encoder configs ---",
+    "bert_version": "DeepPavlov/rubert-base-cased",
+    "encoder_type": "bert"
+    }

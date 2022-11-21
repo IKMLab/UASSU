@@ -12,3 +12,7 @@ output/
 *.pt
 .vscode/
 ROUGE-1.5.5/
+temp
+sum_dist/data
+sum_dist/output
+sum_dist/checkpoint

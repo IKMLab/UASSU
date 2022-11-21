@@ -1,0 +1,8 @@
+{
+    "__comment-01": "--- Preprocess configs ---",
+    "preprocess_spacy_model": "de_core_news_sm",
+
+    "__comment-02": "--- Encoder configs ---",
+    "bert_version": "bert-base-german-dbmdz-uncased",
+    "encoder_type": "bert"
+    }
