@@ -1,6 +1,6 @@
 # Unsupervised Single Document Abstractive Summarization using Semantic Units
 
-This is the source code of our AACL'2022 paper Unsupervised Single Document Abstractive Summarization using Semantic Units (paper link will be added soon).
+This is the source code of our AACL'2022 paper Unsupervised Single Document Abstractive Summarization using Semantic Units ([paper link](https://aclanthology.org/2022.aacl-main.69/)).
 
 ## Environment
 
